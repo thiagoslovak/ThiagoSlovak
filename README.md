@@ -1,4 +1,3 @@
-## Olá! Eu sou Thiago Slovak
 
 <div align="center">
   <a href="https://github.com/thiagoslovak">
