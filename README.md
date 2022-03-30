@@ -17,6 +17,7 @@
   <img align="center" alt="Thiago-Oracle" height="80" width="80" src="https://www.martincap.io/images/icons/devicon/oracle/oracle-original.svg">
 </div>
   
+  
 ##
   
 <div>
