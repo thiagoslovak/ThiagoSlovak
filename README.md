@@ -1,3 +1,5 @@
+### Um pouco sobre mim 
+Sou Thiago, cursando bacharel em sistemas de informação, atuo como desenvolvedor de sistemas a 3 anos, com algumas tecnologias como Java, AngularJs com arquitetura de monolito ou microsservices com implementação de API REST seguindo os padrões de design partners, solid, clean code. 
 
 <div align="center">
   <a href="https://github.com/thiagoslovak">
