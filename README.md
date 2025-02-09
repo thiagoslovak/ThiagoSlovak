@@ -1,5 +1,5 @@
 ### Um pouco sobre mim 
-Sou Thiago, bacharel em sistemas de informação, atuo como desenvolvedor de sistemas a 5 anos, com algumas tecnologias como Java, Spring, Quarkus com arquitetura de monolito ou microsservices com implementação de API REST seguindo os padrões de design partners, solid, clean code. 
+Sou Thiago, bacharel em sistemas de informação, atuo como desenvolvedor de sistemas, com algumas tecnologias como Java, Spring, Quarkus com arquitetura de monolito ou microsservices com implementação de API REST seguindo os padrões de design partners, solid, clean code. 
  
 Conhecimentos em: 
 - Linguagem de Programação: Java. 
