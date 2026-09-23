@@ -1,4 +1,4 @@
-### Um pouco sobre mim 
+### About
 Bachelor's degree in Information Systems, with over 6 years of experience in systems development. I currently work as a Senior Java Developer and have also served as Tech Lead, leading technical teams, defining architectures, supporting demand management, and implementing quality practices such as code review and Git Flow.
 
 I have solid experience with Java, Spring, and Quarkus, developing solutions in both monolithic and microservices architectures, with REST API implementation following SOLID principles, Clean Code, and design patterns.
